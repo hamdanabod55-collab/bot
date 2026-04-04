@@ -1,0 +1,13 @@
+{
+  "users": {
+    "5687706918": {
+      "username": "w8l_q",
+      "balance": 0,
+      "videosReceived": [],
+      "lastPaymentHash": null,
+      "createdAt": "2026-04-04T21:47:50.769Z"
+    }
+  },
+  "videos": [],
+  "processedTransactions": []
+}
